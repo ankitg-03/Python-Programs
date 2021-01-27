@@ -1,6 +1,6 @@
 import random
 m=random.randrange(1,10)
-print("\nWELCOME!\nIn this game you have to guess the correct number in between 1 to 10\nYou will be having 6 guesses to guess the correct number")
+print("\nWELCOME!\nIn this game you have to guess the correct number in between 1 to 10\nYou will be having 3 guesses to guess the correct number")
 
 def game():
     for i in range(3,0,-1):
